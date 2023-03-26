@@ -1,0 +1,18 @@
+public class wsstclass{
+
+private int a;
+private int b;
+
+public void setA(){
+this.a=a;
+}
+
+public void setB(){
+this.b=b;
+}
+public int getA(){
+return A;}
+
+public int getB(){
+return B;}
+}
