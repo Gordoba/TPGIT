@@ -10,5 +10,6 @@ this.a=a;
 public void setB(){
 this.b=b;
 }
-
+public int getA(){
+return A;}
 
