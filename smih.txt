@@ -13,6 +13,6 @@ this.b=b;
 public int getA(){
 return A;}
 
-//public int getB(){
+public int getB(){
 return B;}
-}//
+}
